@@ -42,4 +42,4 @@ python main.py
 
 ## Author
 
-[Your Name], 10th Grade
+Yaqub Yaqubov, 10th Grade
