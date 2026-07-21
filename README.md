@@ -22,3 +22,21 @@ pip install -r requirements.txt
 ```
 
 Create a `.env` file and add your API key:
+ANTHROPIC_API_KEY=your_api_key
+
+## Usage
+
+```bash
+python main.py
+```
+
+## Example Results
+
+| Question | Answer |
+|----------|--------|
+| What is the molar mass of water? | 18.015 g/mol |
+| How many moons will Jupiter have in 2050? | Information not found (future data) |
+
+## Author
+
+[Your Name], 10th Grade
