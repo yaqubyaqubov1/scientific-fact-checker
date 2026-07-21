@@ -22,7 +22,10 @@ pip install -r requirements.txt
 ```
 
 Create a `.env` file and add your API key:
+
+```bash
 ANTHROPIC_API_KEY=your_api_key
+```
 
 ## Usage
 
