@@ -42,4 +42,4 @@ python main.py
 
 ## Author
 
-Yaqub Yaqubov, 10th Grade
+Yaqub Yaqubov- Secondary comprehensive school number 269  10th Grade
